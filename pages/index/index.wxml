@@ -1,0 +1,6 @@
+
+
+<view>
+   <button bindtap='click'>签到</button>
+   <view bindtap='onShow'>{{region}}</view>
+</view>
